@@ -1,6 +1,13 @@
 ### Analysis of Supply Chain GHG Emission Factors for US Commodities and Industries v1.1.1 
 
+### How do substances used in the U.S. Industrial Sector from 2010 - 2016 impact marginal and non-marginal greenhouse gas emissions, and how reliable are these emissions estimates based on quality assurance measurements?
 
+#### Objectives:
+        * Substance Impact Analysis
+        * Emissions Breakdown
+        * Accuracy and Quality Assurance
+        * Subsector Analysis 
+        * Policy and Technological Influence
 
 
 
